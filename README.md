@@ -1,3 +1,7 @@
+DEPLOYNENT FILE
+
+https://hs-ipl-score-prediction-api.herokuapp.com/
+
 This Project Is All About Time Series Data 
 
 PROBLEM STATEMENT:
