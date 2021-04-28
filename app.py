@@ -5,7 +5,7 @@ import numpy as np
 import sklearn
 
 # Load the Ridge Regression Classifier model
-filename = 'ipl_score_predict_model.pkl' # change the model type to see lil changes in prediction
+filename = 'ipl_score_predict_model.pkl'# change the model type to see lil changes in prediction
 reg = pickle.load(open(filename, 'rb'))
 
 app = Flask(__name__)
