@@ -39,3 +39,6 @@ FILES
 
 3. DATA FILE:
 * ipl.csv - Dataset Used
+
+
+Deployed App Can Be Found Here: https://ipl-score-pedictor.herokuapp.com/
