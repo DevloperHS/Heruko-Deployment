@@ -1,3 +1,7 @@
+A Complete Walktrough Guide: https://www.analyticsvidhya.com/blog/2021/10/building-an-ipl-score-predictor-end-to-end-ml-project/
+
+Deployed App Can Be Found Here: https://ipl-score-pedictor.herokuapp.com/
+
 This Project Is All About Time Series Data 
 
 PROBLEM STATEMENT:
@@ -41,4 +45,3 @@ FILES
 * ipl.csv - Dataset Used
 
 
-Deployed App Can Be Found Here: https://ipl-score-pedictor.herokuapp.com/
